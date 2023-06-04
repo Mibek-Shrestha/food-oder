@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+#SOME_SCREENSHOT_OF_PROJECT
+![food1](https://github.com/Mibek-Shrestha/food-oder/assets/79530597/e0cbc934-9ea1-4fbe-8210-3c987b41ff6f)
+![food2](https://github.com/Mibek-Shrestha/food-oder/assets/79530597/9bd889e9-02c8-4966-8fd4-1cd32aecc655)
+![food3](https://github.com/Mibek-Shrestha/food-oder/assets/79530597/a8a42068-6b10-43aa-8640-a79a73953f48)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
